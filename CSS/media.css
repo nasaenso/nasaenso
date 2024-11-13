@@ -1,0 +1,34 @@
+
+@media screen and (max-width:750px) {
+    .nav1,.nav2,.nav3{
+        color: white;
+        padding-left:1rem;
+        display: block;
+    }
+    .DIVISIONES_CONTENIDO{
+            padding-top: 0rem;
+            color:white;
+            z-index: 1;
+            font-size: x-small;
+            
+            
+    }
+    #CONTENIDO_SUP, #CONTENIDO_INF{
+        height: 50vh;
+    }
+    #CONTENIDO_INICIO{
+        height: 100vh;
+    }
+    .textoBusqueda{
+        font-size: smaller;
+        
+    }
+    
+    .ulDatos{
+        margin-left: 0rem;
+      }
+    .textoB{
+        font-size: x-small;
+    }
+      
+}
